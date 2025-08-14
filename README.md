@@ -12,4 +12,4 @@ So you want to know more about me?
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,nextjs,vue,angular,mongodb,mysql,firebase,jest,cypress)](https://skillicons.dev)
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=cpp,aws,docker,postgres,)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,aws,docker,postgres,figma)](https://skillicons.dev)
